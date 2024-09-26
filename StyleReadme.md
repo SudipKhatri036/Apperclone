@@ -50,7 +50,7 @@ Svgs Above for wavy effect
 
 color: #3e3f66;
 primary-color: #6a49f2;
-body-colo: #F6F4FE
+body-color: #F6F4FE
 font: poppins
 transition all 0.3s ease-in-out 0s
 btn-hovr transition 0.6s all
